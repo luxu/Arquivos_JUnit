@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+D:\Documentos\FATEC\2012-1\Semana Informática\EclipseJUnitWorkspace\.metadata\.plugins\org.eclipse.jdt.core

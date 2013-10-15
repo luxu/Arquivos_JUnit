@@ -1,0 +1,19 @@
+package exemplo1.calculadora;
+
+import exemplo1.calculadora.Calculadora;
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import testes.exemplo1.calculadora;
+
+
+public class CalculadoraTeste {
+
+	@Test
+	public void testSomar() {
+		assertEquals(Calculadora.somar(3, 5), 8);
+		assertEquals(Calculadora.somar(2, 1), 2);
+	}
+
+}
