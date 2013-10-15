@@ -1,1 +1,1 @@
-Arquivos de exemplos passados em um mimi-curso sobre JUnit
+Arquivos de exemplos passados em um mini-curso sobre JUnit
